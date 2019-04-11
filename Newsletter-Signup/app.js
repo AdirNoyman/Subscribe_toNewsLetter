@@ -75,5 +75,5 @@ app.post('/failure', (req, res) => res.redirect('/'));
 // Starting server listen on port 3000
 app.listen(process.env.PORT || 3000, () => console.log("Server is running on port 3000"));
 
-// mailchimpApiKey: fab8af5e5eac84e67452cc0b1ead16f2-us20
+// mailchimpApiKey: 
 // list id: ca5d9d96f7
